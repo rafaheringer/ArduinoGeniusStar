@@ -11,6 +11,7 @@ O código "ArduinoCode.ino" está comentado em inglês.
 - 3 Push buttons
 - 1 mini protoboard
 - 5 leds
+- 1 buzzer
 
 ## Fotos do projeto ([veja todas](images))
 <img src="images/IMG_20151114_204800.jpg" height="150">
