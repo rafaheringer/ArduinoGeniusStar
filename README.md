@@ -3,7 +3,7 @@ Projeto baseado no jogo Genius para server à projeto de TCC do curso de Pedagog
 
 O código "ArduinoCode.ino" está comentado em inglês.
 
-[![Vídeo do projeto](images/yt.jpg)](https://www.youtube.com/watch?v=NULblnEpr-U)
+[![Vídeo do projeto](images/yt.JPG)](https://www.youtube.com/watch?v=NULblnEpr-U)
 
 ## Material utilizado
 - Arduino Uno
